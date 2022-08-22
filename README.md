@@ -1,4 +1,4 @@
-
+Create a shared library based on java-maven-app project 
 
 PS C:\Users\abhia\IdeaProjects\Jenkins-shared-library> git status
 fatal: not a git repository (or any of the parent directories): .git
